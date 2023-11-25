@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 23, 2023 at 08:05 AM
+-- Generation Time: Nov 25, 2023 at 07:28 AM
 -- Server version: 10.4.24-MariaDB
 -- PHP Version: 7.4.29
 
@@ -115,11 +115,6 @@ CREATE TABLE `feedback` (
 --
 
 INSERT INTO `feedback` (`f_id`, `f_content`, `stu_id`) VALUES
-(3, 'My life at iSchool made me stronger and took me a step ahead for being an independent women. I am thankful to all the teachers who supported us and corrected us throughout our career. I am very grateful to the iSchool for providing us the best of placement opportunities and finally I got placed in DC Marvel.', 171),
-(8, 'I am grateful to iSchool - both the faculty and the Training & Placement Department. They have made efforts ensuring maximum number of placed students. Due to the efforts made by the faculty and placement cell. I was able to bag a job in the second company.', 172),
-(9, 'iSchool is a place of learning, fun, culture, lore, literature and many such life preaching activities. Studying at the iSchool brought an added value to my life.', 173),
-(10, 'Think Magical, that is one thing that iSchool urges in and to far extent succeed in teaching to its students which invariably helps to achieve what you need.', 174),
-(12, 'Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family.', 180),
 (14, 'Nice WebSite', 183),
 (15, 'omg ', 183),
 (16, 'as', 183);
